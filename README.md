@@ -5,7 +5,6 @@ topydo - a powerful todo.txt application
 
 topydo is a powerful todo list application using the [todo.txt format][1].
 
-
 It has three user interfaces:
 
 * Command Line Interface (CLI) - originally inspired by the [todo.txt CLI][2]
